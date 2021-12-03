@@ -11,7 +11,7 @@ For this assignment, you'll create some initial plans for your project.
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 -Home
-![Homepage wireframe](https://trello.com/1/cards/6195e9917b8f9d691623e3e0/attachments/61aaa63d75f87e62cb9edb9d/previews/61aaa63e75f87e62cb9edba4/download/home.PNG.png)
+![Homepage wireframe](![image](https://user-images.githubusercontent.com/84482279/144686001-ecad9e14-99b7-49b4-8628-3dad192133eb.png))
 
 -Services List 
 ![Services list wireframe](https://trello.com/1/cards/6195e9a480e00f629bdee2c2/attachments/61aaa6906da1a4840c336d9c/previews/61aaa6916da1a4840c336da2/download/list.PNG.png)
