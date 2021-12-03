@@ -26,10 +26,10 @@ Include at least 3 wireframes here, adding images or files to your repository as
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
-[Trello Board]https://trello.com/b/5Xxgb7jK/liftoff-2021
+[Trello Board](https://trello.com/b/5Xxgb7jK/liftoff-2021)
 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
 
-[Git Respository]https://github.com/kellymgerstner/LiftOff-Project
+[Git Respository](https://github.com/kellymgerstner/LiftOff-Project)
